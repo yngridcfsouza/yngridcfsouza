@@ -2,15 +2,15 @@
 
 🎯 Desenvolvedora Full Stack
 
-Sou estudante de Engenharia de Software e formada como Desenvolvedora Web pelo SENAI-SP. Tenho conhecimento em **React, JavaScript, Python, Node.js e Java**, e adoro transformar ideias em interfaces funcionais e acessíveis.  
+Sou estudante de Engenharia de Software e formada como Desenvolvedora Web pelo SENAI-SP. Tenho conhecimento em **React, TypeScript, Python, Node.js e Java**, e adoro transformar ideias em interfaces funcionais e acessíveis.  
 
 Criei projetos como:
 - 💸 Um **Dashboard Financeiro** com React
-- 🎮 Um **e-commerce de games responsivo**
+- 📫 Um **Sistema de gerenciamento de Contatos**
 - 🌍 Atuei como **tradutora no G20 Brasil** em 2024
 
 ## 🚀 Tecnologias e ferramentas que utilizo:
-- **Front-end:** React, HTML, CSS, JavaScript, Bootstrap
+- **Front-end:** React, Next.js, Vite, Angular
 - **Back-end:** Python, Node.js, Java, SQL
 - **Ferramentas:** Git, GitHub, Power BI, VS Code
 
