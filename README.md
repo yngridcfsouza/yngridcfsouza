@@ -6,7 +6,7 @@ Sou estudante de Engenharia de Software e formada como Desenvolvedora Web pelo S
 
 Criei projetos como:
 - 💸 Um **Dashboard Financeiro** com React
-- 📫 Um **Sistema de gerenciamento de Contatos**
+- 📫 Um **Sistema de gerenciamento de Contatos** com Node.js e React
 - 🌍 Atuei como **tradutora no G20 Brasil** em 2024
 
 ## 🚀 Tecnologias e ferramentas que utilizo:
