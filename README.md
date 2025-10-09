@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou a Yngrid
 
-🎯 Desenvolvedora Full Stack
+Desenvolvedora Fullstack | Especialista em Frontend
 
 Graduanda em Engenharia de Software e formada como Desenvolvedora Web pelo SENAI-SP. Desenvolvo aplicações WEB em **React, TypeScript, Python, Node.js e Java**, e adoro transformar ideias em interfaces funcionais e acessíveis.  
 
