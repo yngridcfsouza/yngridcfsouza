@@ -21,7 +21,7 @@ Criei projetos como:
 
 📫 **Vamos nos conectar?**
 - [LinkedIn](https://linkedin.com/in/devyngrid)
-- [Portfólio (em breve)]
+- [Portfólio](https://yngridcfsouza.github.io/portfolio/)
 - ✉️ isnotlive.yngrid@gmail.com
 
 ---
