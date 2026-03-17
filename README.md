@@ -1,84 +1,89 @@
-# 👋 Olá! Eu sou a Yngrid
+# 👋 Hi, I'm Yngrid
 
-💻 Desenvolvedora Full Stack | Especialista em Front-end
-🎓 Graduanda em Engenharia de Software | Desenvolvedora Web formada pelo SENAI-SP
+💻 Backend / Fullstack Developer
+🎓 Software Engineering Student | Web Developer (SENAI-SP)
 
-Sou apaixonada por criar soluções digitais que unem boa experiência do usuário, código limpo e impacto real. Gosto de transformar ideias em produtos funcionais — do layout à regra de negócio — sempre com foco em evolução contínua. 
+I build real-world systems that connect software, data, and physical environments.
+My focus is on backend development, system design, and creating reliable solutions that solve practical problems.
 
-
-# 🚀 O que estou construindo
-
-🏨 Micro‑SaaS de Check‑in Express para Hotéis
-Projeto próprio focado em automação, experiência do usuário e escalabilidade.
-
-📊 Dashboard Financeiro (React + Node.js)
-Integração de contas bancárias, visualização de dados financeiros e uso de Axios para consumo de APIs.
-
-🛗 Sistema de Controle de Acesso para Elevadores
-Protótipo envolvendo lógica de controle, estados e integração com hardware.
-
-📫 MyContacts – Sistema de gerenciamento de contatos (Node.js + React)
-
-💰 Fincheck – Aplicação financeira desenvolvida no curso JStack
-
-# 🧪 Estudos e foco atual
-
-Testes automatizados (unitários e integração)
-
-Boas práticas de arquitetura Front‑end
-
-React avançado e ecossistema moderno
-
-APIs REST e integração com sistemas externos
-
-Preparação para vagas Front‑end Pleno
-
-# 🛠️ Tecnologias & Ferramentas
-## Front‑end
-
-React | Next.js | TypeScript | JavaScript
-
-Angular
-
-HTML | CSS
-
-## Back‑end
-
-Node.js | Python | Java
-
-SQL | APIs REST
-
-## Ferramentas
-
-Git | GitHub
-
-Power BI
-
-VS Code
-
-Figma (para apoio visual)
-
-# 🧠 O que me define
-
-Aprendizado contínuo 📚
-
-Curiosidade por tecnologia e resolução de problemas
-
-Organização, comunicação e trabalho em equipe
-
-Evoluir junto com o produto e com as pessoas 🚀
-
-# 🌍 Experiências adicionais
-
-🌐 Atuação como Tradutora no G20 Brasil – 2024
-
-👩‍👧 Mulher, mãe e desenvolvedora em constante evolução
-
-# 📫 **Vamos nos conectar?**
-- [LinkedIn](https://linkedin.com/in/devyngrid)
-- [Portfólio](https://yngridcfsouza.github.io/portfolio/)
-- ✉️ isnotlive.yngrid@gmail.com
+I enjoy turning ideas into working products — from APIs and data flow to user-facing applications — always aiming for clean architecture and continuous improvement.
 
 ---
 
-> “A curiosidade é meu combustível e a prática é meu caminho.” 🚀
+# 🚀 What I'm building
+
+🏢 **Automation Systems for Real Environments (Quintec)**
+Development of backend services for automation of lighting and HVAC systems using Node.js, MQTT, Redis, and PostgreSQL, integrating ESP-based devices and real-time communication.
+
+🏨 **Micro-SaaS for Hotel Express Check-in**
+Product focused on automation, user experience, and scalability.
+
+📊 **Financial Dashboard (React + Node.js)**
+Integration with external APIs, data visualization, and financial insights.
+
+🛗 **Elevator Access Control System**
+Prototype involving business logic, state control, and hardware integration.
+
+---
+
+# 🧪 Current Focus
+
+* Backend development with Node.js
+* System design and API architecture
+* SQL and data modeling
+* Writing code with more autonomy (less reliance on tools)
+* Preparing for backend-focused roles
+
+---
+
+# 🛠️ Tech Stack
+
+## Backend
+
+* Node.js
+* REST APIs
+* PostgreSQL
+* Redis
+* MQTT
+
+## Frontend
+
+* React, Next.js
+* TypeScript, JavaScript
+* HTML, CSS
+
+## Tools
+
+* Git & GitHub
+* Docker
+* Postman
+* Figma
+
+---
+
+# 🧠 What defines me
+
+* Strong problem-solving mindset
+* Focus on building real, useful systems
+* Continuous learning and improvement
+* Collaboration and clear communication
+
+---
+
+# 🌍 Additional Experience
+
+🌐 Translator at G20 Brazil – 2024
+
+👩‍👧 Mother and developer growing consistently through real-world challenges
+
+---
+
+# 📫 Let's connect
+
+* LinkedIn: https://linkedin.com/in/devyngrid
+* Portfolio: https://yngridcfsouza.github.io/portfolio/
+* Email: [isnotlive.yngrid@gmail.com](mailto:isnotlive.yngrid@gmail.com)
+
+---
+
+> “Curiosity drives me. Practice builds me.” 🚀
