@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Yngrid
 
-💻 Backend / Fullstack Developer
+💻 Frontend / Fullstack Developer
 🎓 Software Engineering Student | Web Developer (SENAI-SP)
 
 I build real-world systems that connect software, data, and physical environments.
-My focus is on backend development, system design, and creating reliable solutions that solve practical problems.
+My focus is on fullstack development, system design, and creating reliable solutions that solve practical problems.
 
 I enjoy turning ideas into working products — from APIs and data flow to user-facing applications — always aiming for clean architecture and continuous improvement.
 
@@ -29,6 +29,7 @@ Prototype involving business logic, state control, and hardware integration.
 # 🧪 Current Focus
 
 * Backend development with Node.js
+* Frontend development with React and Next.js
 * System design and API architecture
 * SQL and data modeling
 * Writing code with more autonomy (less reliance on tools)
@@ -58,6 +59,7 @@ Prototype involving business logic, state control, and hardware integration.
 * Docker
 * Postman
 * Figma
+* Vitest
 
 ---
 
