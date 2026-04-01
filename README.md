@@ -1,91 +1,81 @@
 # 👋 Hi, I'm Yngrid
 
-💻 Frontend / Fullstack Developer
-🎓 Software Engineering Student | Web Developer (SENAI-SP)
+💻 Backend Developer | Node.js, PostgreSQL, MQTT  
+🎓 Software Engineering Student  
 
-I build real-world systems that connect software, data, and physical environments.
-My focus is on fullstack development, system design, and creating reliable solutions that solve practical problems.
+I build real-world systems that connect software to physical environments.
 
-I enjoy turning ideas into working products — from APIs and data flow to user-facing applications — always aiming for clean architecture and continuous improvement.
-
----
-
-# 🚀 What I'm building
-
-🏢 **Automation Systems for Real Environments (Quintec)**
-Development of backend services for automation of lighting and HVAC systems using Node.js, MQTT, Redis, and PostgreSQL, integrating ESP-based devices and real-time communication.
-
-🏨 **Micro-SaaS for Hotel Express Check-in**
-Product focused on automation, user experience, and scalability.
-
-📊 **Financial Dashboard (React + Node.js)**
-Integration with external APIs, data visualization, and financial insights.
-
-🛗 **Elevator Access Control System**
-Prototype involving business logic, state control, and hardware integration.
+My work is focused on backend development, event-driven architectures, and real-time communication — especially in automation systems involving IoT devices.
 
 ---
 
-# 🧪 Current Focus
+## 🚀 What I'm building
 
-* Backend development with Node.js
-* Frontend development with React and Next.js
-* System design and API architecture
-* SQL and data modeling
-* Writing code with more autonomy (less reliance on tools)
-* Preparing for backend-focused roles
+### 🏢 Automation Systems for Real Environments (Quintec)
+Backend services for automation of lighting and HVAC systems using Node.js, MQTT, Redis, and PostgreSQL.  
+Integration with ESP-based devices and real-time communication in production environments.
 
----
+### 🏨 Micro-SaaS for Hotel Express Check-in
+Product focused on automation, user experience, and scalable backend architecture.
 
-# 🛠️ Tech Stack
-
-## Backend
-
-* Node.js
-* REST APIs
-* PostgreSQL
-* Redis
-* MQTT
-
-## Frontend
-
-* React, Next.js
-* TypeScript, JavaScript
-* HTML, CSS
-
-## Tools
-
-* Git & GitHub
-* Docker
-* Postman
-* Figma
-* Vitest
+### 📊 Financial Dashboard
+Integration with external APIs, data processing, and financial insights (React + Node.js).
 
 ---
 
-# 🧠 What defines me
+## 🧪 Current Focus
 
-* Strong problem-solving mindset
-* Focus on building real, useful systems
-* Continuous learning and improvement
-* Collaboration and clear communication
-
----
-
-# 🌍 Additional Experience
-
-🌐 Translator at G20 Brazil – 2024
-
-👩‍👧 Mother and developer growing consistently through real-world challenges
+- Backend development with Node.js  
+- Event-driven systems and real-time communication  
+- API design and system architecture  
+- Data modeling with PostgreSQL  
+- Writing code with more autonomy  
 
 ---
 
-# 📫 Let's connect
+## 🛠️ Tech Stack
 
-* LinkedIn: https://linkedin.com/in/devyngrid
-* Portfolio: https://yngridcfsouza.github.io/portfolio/
-* Email: [isnotlive.yngrid@gmail.com](mailto:isnotlive.yngrid@gmail.com)
+**Backend**
+- Node.js
+- REST APIs
+- PostgreSQL
+- Redis
+- MQTT
+
+**Frontend**
+- React, Next.js
+- TypeScript
+
+**Tools**
+- Git & GitHub
+- Docker
+- Postman
 
 ---
 
-> “Curiosity drives me. Practice builds me.” 🚀
+## 🧠 What defines me
+
+- Strong problem-solving mindset  
+- Focus on building real systems  
+- Continuous improvement  
+- Clear communication and teamwork  
+
+---
+
+## 🌍 Additional Experience
+
+🌐 Translator at G20 Brazil – 2024  
+
+👩‍👧 Mother and developer growing through real-world challenges  
+
+---
+
+## 📫 Let's connect
+
+- LinkedIn: https://linkedin.com/in/devyngrid  
+- Portfolio: https://yngridcfsouza.github.io/portfolio/  
+- Email: isnotlive.yngrid@gmail.com  
+
+---
+
+> Curiosity drives me. Practice builds me.
