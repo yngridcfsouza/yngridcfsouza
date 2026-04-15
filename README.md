@@ -1,18 +1,18 @@
 # 👋 Hi, I'm Yngrid
 
-💻 Backend Developer | Node.js, PostgreSQL, MQTT  
-🎓 Software Engineering Student  
+💻 Fullstack Developer | Node.js, PostgreSQL, MQTT  
+🎓 Software Engineer  
 
 I build real-world systems that connect software to physical environments.
 
-My work is focused on backend development, event-driven architectures, and real-time communication — especially in automation systems involving IoT devices.
+My work is focused on Fullstack development, event-driven architectures, and real-time communication — especially in automation systems involving IoT devices.
 
 ---
 
 ## 🚀 What I'm building
 
 ### 🏢 Automation Systems for Real Environments (Quintec)
-Backend services for automation of lighting and HVAC systems using Node.js, MQTT, Redis, and PostgreSQL.  
+Fullstack services for automation of lighting and HVAC systems using Node.js, MQTT, Redis, React and PostgreSQL.  
 Integration with ESP-based devices and real-time communication in production environments.
 
 ### 🏨 Micro-SaaS for Hotel Express Check-in
@@ -26,7 +26,8 @@ Integration with external APIs, data processing, and financial insights (React +
 ## 🧪 Current Focus
 
 - Backend development with Node.js  
-- Event-driven systems and real-time communication  
+- Event-driven systems and real-time communication
+- Frontend friendly and priorizing UX
 - API design and system architecture  
 - Data modeling with PostgreSQL  
 - Writing code with more autonomy  
